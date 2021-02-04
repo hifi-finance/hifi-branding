@@ -1,34 +1,34 @@
-# HiFi - Brand Guidelines
+# Hifi - Brand Guidelines
 
-For more information, access [https://hifi.finance/brand](https://hifi.finance/brand)
+For more information, access [https://hifi.finance/branding](https://hifi.finance/branding)
 
 ## Logo
 
-Don't combine the HiFi name or logos, or any portion of any of them, with any other logo, company name, mark, or generic terms. Please don't edit, modify, distort, rotate, or recolor the logo.
+Don't combine the Hifi name or logos, or any portion of any of them, with any other logo, company name, mark, or generic terms. Please don't edit, modify, distort, rotate, or recolor the logo.
 
 
 ## Colors
 
-HiFi incorporates the following colors throughout its branding. Please use them accordingly.
+Hifi’s main color is a vibrant purple on a dark color scheme. Please use the following colors accordingly.
 
-- GREY_STANDARD (#101010)
-- GREY_LIGHT_1 (#202020)
-- WHITE (#FFFFFF)
-- HIFI_PURPLE (#6E2EF4)
-- HIFI_BLUE (#2C6FF6)
-- HIFI_PURPLE_DARK (#5B28C6)
-- SABLIER_ORANGE (#F48D2E)
+- Purple (#6E2EF4)
+- Black (#101010)
+- Grey (#202020)
+- White (#FFFFFF)
 
 ## Illustrations
 
-HiFi’s illustrations convey the mission and values of the company.  Please use them accordingly.
+Hifi’s illustrations convey the mission and values of the company.  Please use them accordingly.
 
 ## Fonts
 
-HiFi’s fonts are free of use. Font weights have specific purposes, please use them accordingly.
+Hifi’s fonts are free of use. Font weights have specific purposes, please use them accordingly.
 
-- [Banana Grotesk](http://monkeytype.xyz)
-  - Titles
+- [Banana Grotesk Regular](http://monkeytype.xyz)
+  - Titles / Sub-titles
 
-- [Inter](https://fonts.google.com/specimen/Inter)
-  - Long paragraphs, links
+- [Inter Semibold](https://fonts.google.com/specimen/Inter)
+  - Titles / Sub-titles / Buttons
+
+- [Inter Regular](https://fonts.google.com/specimen/Inter)
+  - Short paragraphs / Long paragraphs / Text heavy documents
